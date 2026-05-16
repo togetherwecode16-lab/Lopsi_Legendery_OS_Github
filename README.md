@@ -1,2 +1,2 @@
-# Lopsi_Legendery_OS_Github
-Lopsi Legendery OS
+# Status
+Lopsi Legendery OS's first beta build will come out today.
