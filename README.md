@@ -1,4 +1,4 @@
-![Banner](Documentation and News.md)
+![Banner](b1.png)![Banner](b2.png)![Banner](Documentation-and-News.md)
 ![Banner](b1.png)![Banner](b2.png)![Banner](b3.png)
 # Status
 Lopsi Legendary OS's pre-beta version is built and is being uploaded
