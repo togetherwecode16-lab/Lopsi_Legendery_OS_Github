@@ -2,4 +2,4 @@
 ![Banner](b2.png)
 ![Banner](b3.png)
 # Status
-Lopsi Legendery OS's first beta build will come out today.
+Lopsi Legendery OS's prebeta ver is built and is being uploaded
