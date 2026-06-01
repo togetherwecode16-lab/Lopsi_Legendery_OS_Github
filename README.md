@@ -1,5 +1,5 @@
 # News
-We have confirmed we are working on bringing Intel Mac support and implementing LOPSI ADVANCED PROTECTION®. We are yet to start working on adding modern UI
+The new version has been delayed again as the UI keeps breaking
 
 # Status
 Lopsi Legendary OS's pre-beta version is built and is being uploaded
